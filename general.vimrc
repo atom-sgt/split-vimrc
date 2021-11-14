@@ -8,7 +8,6 @@ set wildmode=list:longest	 " cmd completion, list matches, complete common
 set cmdheight=2			" higher cmd line
 set showcmd				" show cmd while typing
 set foldcolumn=1		" show folds in gutter
-set foldmethod=syntax	" auto define folds by syntax
 set laststatus=2        " always show statusline
 
 
