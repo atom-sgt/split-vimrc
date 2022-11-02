@@ -11,12 +11,8 @@ map <leader><down> :wincmd j<CR>
 map <leader><left> :wincmd h<CR>
 map <leader><right> :wincmd l<CR>
 " Faster scrolling
-nnoremap J jjjjj
-nnoremap <S-down> jjjjj
 nnoremap <C-down> <C-d> 
 nnoremap <C-j> <C-d>
-nnoremap K kkkkk
-nnoremap <S-up> kkkkk
 nnoremap <C-up> <C-u> 
 nnoremap <C-k> <C-u>
 " Scroll w/ cursor
